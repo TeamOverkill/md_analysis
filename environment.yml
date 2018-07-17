@@ -1,0 +1,15 @@
+name: md_analysis
+channels:
+    - conda-forge
+    - omnia
+    - ambermd
+dependencies:
+    - python=3.5
+    - numpy
+    - matplotlib
+    - notebook
+    - mdtraj
+    - pytraj
+    - scipy
+    - pandas
+    - pyemma
